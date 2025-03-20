@@ -94,11 +94,3 @@ This will launch a web application where users can upload images/videos and visu
 ## 💡 Contributing
 We welcome contributions! If you’d like to improve the project, please **fork the repo, make changes, and submit a pull request**.
 
-## 🙏 Acknowledgments
-Special thanks to **[Your Mentor's Name]** for guidance and the **Ultralytics YOLO community** for their contributions.
-
----
-🚀 **Developed by [Your Name]** | [LinkedIn](your-linkedin) | [GitHub](your-github)  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKQmNDmWSm7Djsk/giphy.gif" width="300" height="150" />
-</p>
