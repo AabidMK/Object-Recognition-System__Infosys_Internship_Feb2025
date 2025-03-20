@@ -1,8 +1,6 @@
 # 🏆 YOLO Object Detection with COCO2017 Subset
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QPQ3xlJhqR1BXl89RG/giphy.gif" width="200" height="200" />
-</p>
+
 
 ## 🌍 Vision
 To develop an **inclusive and efficient** object detection system that enhances AI-powered recognition across various industries such as **security, surveillance, autonomous vehicles, and smart cities**.
