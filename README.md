@@ -58,16 +58,7 @@ cd Object-Recognition-System__Infosys_Internship_Feb2025
 pip install -r requirements.txt
 ```
 
-## 🚀 Usage
-### 🎯 Run Object Detection
-Run inference on an image:
-```bash
-python detect.py --source path/to/image.jpg --weights best.pt --conf 0.5
-```
-Run inference on a video:
-```bash
-python detect.py --source path/to/video.mp4 --weights best.pt --conf 0.5
-```
+
 
 ### 🌐 Launch Streamlit Web App
 To provide a **real-time interactive UI**, run:
